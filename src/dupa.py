@@ -1,3 +1,3 @@
-print ("dupa123")
+print("dupa123")
 print("linia dwa")
-print ("uczymy sie pythona")
+print("uczymy sie pythona")
