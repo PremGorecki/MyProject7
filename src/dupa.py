@@ -6,3 +6,6 @@ def metodaA():
 
 def metodaB():
     print("dupa")
+
+def metodaC():
+    print('metoda C')
