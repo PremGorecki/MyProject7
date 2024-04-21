@@ -3,3 +3,6 @@ print("linia dwa")
 print("uczymy sie pythona")
 def metodaA():
     print('metoda A')
+
+def metodaB():
+    print("dupa")
