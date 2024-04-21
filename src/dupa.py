@@ -1,3 +1,5 @@
+import pandas as pd
+
 print("dupa123")
 print("linia dwa")
 print("uczymy sie pythona")
@@ -9,3 +11,4 @@ def metodaB():
 
 def metodaC():
     print('metoda C')
+
