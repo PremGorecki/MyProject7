@@ -67,3 +67,6 @@ print(lista)
 
 print('długość listy')
 print(len(lista))
+
+
+print('prezentacja dla Karola')
